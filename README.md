@@ -32,4 +32,4 @@ For Random Forest, The Model Hyperparameters are -
 
 So, tune the Hyperparameters and choose the evaluation metrices and then click on Classify.
 
-Also, You can go through the Raw Data by clicking on Show Raw Data.
+Also, You can go through the Raw Data by clicking on `Show Raw Data`.
